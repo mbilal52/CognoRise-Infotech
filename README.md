@@ -17,3 +17,16 @@ distinct species based on their sepal and petal measurements.
 ideal for introductory learning experiences
 
 DATASET link: https://www.kaggle.com/datasets/arshid/iris-flower-dataset
+
+TASK 3
+TITANIC SURVIVAL PREDICTION
+• Utilize the Titanic dataset to construct a predictive model determining if a 
+passenger survived the Titanic disaster. 
+• This project serves as an introductory exercise, offering accessible data for analysis.
+• The dataset comprises passenger details encompassing age, gender, ticket class, 
+fare, cabin, and survival outcome.
+• By applying this data, you can embark on a classic project that provides insights 
+into survival patterns among Titanic passengers.
+
+DATASET: https://www.kaggle.com/datasets/brendan45774/test-file
+
