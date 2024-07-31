@@ -18,7 +18,7 @@ ideal for introductory learning experiences
 
 DATASET link: https://www.kaggle.com/datasets/arshid/iris-flower-dataset
 
-TASK 3
+TASK 2
 TITANIC SURVIVAL PREDICTION
 • Utilize the Titanic dataset to construct a predictive model determining if a 
 passenger survived the Titanic disaster. 
@@ -30,3 +30,13 @@ into survival patterns among Titanic passengers.
 
 DATASET: https://www.kaggle.com/datasets/brendan45774/test-file
 
+Task: 3
+Car Price Prediction
+Numerous factors contribute to a car's price, encompassing brand reputation, car 
+features, horsepower, mileage efficiency, and more. 
+• Car price prediction stands as a significant domain within machine learning 
+research.
+• If you seek to master the art of training a car price prediction model, this project 
+presents a valuable learning opportunity.
+
+DATASET: https://www.kaggle.com/datasets/goyalshalini93/car-data
