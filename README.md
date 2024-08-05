@@ -40,3 +40,14 @@ research.
 presents a valuable learning opportunity.
 
 DATASET: https://www.kaggle.com/datasets/goyalshalini93/car-data
+
+TASK 4
+FAKE NEWS PREDICTION
+• The Fake News Prediction Dataset features both real and fake news, providing a 
+basis for predictive modeling to identify misinformation. With columns including 
+Title, Text, and Label (Fake or Real), it addresses the pervasive issue of false or 
+misleading information in news.
+• The dataset supports efforts to enhance information integrity, combat fake news, 
+and promote media literacy
+
+DATASET: https://www.kaggle.com/datasets/rajatkumar30/fake-news
